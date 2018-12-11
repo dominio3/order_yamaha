@@ -1,0 +1,47 @@
+RES   00023072     07/12/2018HS5I                2               000615PESSOLANO LUIS                          YAPEYU 267                    CABA                     Good Stock     
+RES   00023072     07/12/2018HS5IW               2               000615PESSOLANO LUIS                          YAPEYU 267                    CABA                     Good Stock     
+RES   00023073     10/12/2018NP12W               2               001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00023073     10/12/2018P45B                20              001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00023073     10/12/2018PSREW410            2               001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00023074     10/12/2018HS7                 2               000110ARTE MUSICAL (MIDI MUSIC CENTER)        SARMIENTO 1456                CABA                     Good Stock     
+RES   00023074     10/12/2018MG10XU              2               000110ARTE MUSICAL (MIDI MUSIC CENTER)        SARMIENTO 1456                CABA                     Good Stock     
+RES   00023075     10/12/2018MX61BK              1               000993YAMAHA SHOWROOM                         OLGA COSSETTINI 1553 4to NORTECABA                     Good Stock     
+RES   00023076     10/12/2018P45B                3               001692LEF CASA DE MÚSICA S.A.                 CUENCA 2902                   CABA                     Good Stock     
+RES   00023076     10/12/2018PSRE453             2               001692LEF CASA DE MÚSICA S.A.                 CUENCA 2902                   CABA                     Good Stock     
+RES   00023077     10/12/2018APX600BL            1               001610ROBERTO CANALE S.A.                     HIPÓLITO IRIGOYEN 1068 / 1094 RÍO CUARTO               Good Stock     
+RES   00023077     10/12/2018P45B                2               001610ROBERTO CANALE S.A.                     HIPÓLITO IRIGOYEN 1068 / 1094 RÍO CUARTO               Good Stock     
+RES   00023077     10/12/2018PSRE453             2               001610ROBERTO CANALE S.A.                     HIPÓLITO IRIGOYEN 1068 / 1094 RÍO CUARTO               Good Stock     
+RES   00023077     10/12/2018PSREW410            1               001610ROBERTO CANALE S.A.                     HIPÓLITO IRIGOYEN 1068 / 1094 RÍO CUARTO               Good Stock     
+RES   00023077     10/12/2018TRBX174EWTBS        1               001610ROBERTO CANALE S.A.                     HIPÓLITO IRIGOYEN 1068 / 1094 RÍO CUARTO               Good Stock     
+RES   00023078     10/12/2018AS4C                10              001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018CL5C                4               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018DS550U              2               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018DS750               2               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018DTXM12              4               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018FC5                 10              001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018KP65                3               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018MAT1                1               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018P125B               2               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018PS940               1               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018PSRE463             10              001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018PSRF51              30              001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018PSRS670             2               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018TR11B4              3               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018TR14A4A             5               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018VALVE OIL V60       14              001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018YDP143B             2               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023078     10/12/2018YDP143R             2               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023079     10/12/2018A12                 2               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018C40                 6               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018DD75                2               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018DTX400K             2               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018EMX2                1               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018HS7                 2               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018MG10XU              2               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018PSRE453             4               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018PSREW410            1               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018TRBX174BL           1               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023079     10/12/2018TRBX174DBM          1               001575UNDER MUSIC DE CRISTIAN ITALIANO        ONCATIVO 2076                 LANUS                    Good Stock     
+RES   00023080     10/12/2018YTR3335S            1               000167DANNY ´S INTRUMENTOS MUSICALES S.A.     ING. ARIETA 3583              SAN JUSTO                Good Stock     
+RES   00023081     10/12/2018P45B                7               001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
+RES   00023081     10/12/2018PSRE263             15              001146LM GUERRISI S.R.L.                      CASEROS 1041                  SALTA                    Good Stock     
