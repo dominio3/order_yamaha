@@ -1,0 +1,86 @@
+RES   00023006     28/11/2018RXA1070B            1               000949GC AUDIO S.R.L.                         RIOJA 2020                    ROSARIO                  Good Stock     
+RES   00023006     28/11/2018RXA3070B            1               000949GC AUDIO S.R.L.                         RIOJA 2020                    ROSARIO                  Good Stock     
+RES   00023006     28/11/2018RXA770B             1               000949GC AUDIO S.R.L.                         RIOJA 2020                    ROSARIO                  Good Stock     
+RES   00023006     28/11/2018RXA870B             1               000949GC AUDIO S.R.L.                         RIOJA 2020                    ROSARIO                  Good Stock     
+RES   00023008     28/11/2018NSIC400W            2               001039DIGITAL CINEMA DE IVO JURI              AV. LIBERTADOR 1092           VICENTE LOPEZ            Good Stock     
+RES   00023009     28/11/2018VS6                 2               001295EXOSOUND S.R.L.                         JUAN DE GARAY 3487            OLIVOS                   Good Stock     
+RES   00023010     28/11/2018AS4C                3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018CLMKIT              3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018DM105B              10              001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018FC5                 2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018FLMKIT              4               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018NSAW190B            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018NSAW190W            4               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018NSAW294W            4               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018PSRF51              6               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018SAXMKIT             3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018SLIDE GREASE        8               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018SLMKIT              3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018TR11B4              3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018TR14A4A             2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018TR8C4               2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023010     28/11/2018VALVE OIL V60       6               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023011     28/11/2018NSIC600W            2               001417KAIEME S.R.L.                           PEÑA 2318                     CABA                     Good Stock     
+RES   00023011     28/11/2018RN402B              1               001417KAIEME S.R.L.                           PEÑA 2318                     CABA                     Good Stock     
+RES   00023012     28/11/2018MG06X               6               001415OLIVA DOMINGO HORACIO                   RIVERA INDARTE 456            CORDOBA                  Good Stock     
+RES   00023012     28/11/2018MG10XU              4               001415OLIVA DOMINGO HORACIO                   RIVERA INDARTE 456            CORDOBA                  Good Stock     
+RES   00023012     28/11/2018MGP16X              2               001415OLIVA DOMINGO HORACIO                   RIVERA INDARTE 456            CORDOBA                  Good Stock     
+RES   00023012     28/11/2018NS8390B             6               001415OLIVA DOMINGO HORACIO                   RIVERA INDARTE 456            CORDOBA                  Good Stock     
+RES   00023012     28/11/2018NSF330B             4               001415OLIVA DOMINGO HORACIO                   RIVERA INDARTE 456            CORDOBA                  Good Stock     
+RES   00023012     28/11/2018RS500B              1               001415OLIVA DOMINGO HORACIO                   RIVERA INDARTE 456            CORDOBA                  Good Stock     
+RES   00023013     28/11/2018APX600NT            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018APX600OBB           1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018AS7C                2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018CX40                1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018FSX315CTBS          1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018FX370CBL            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018NSSW100             2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018PSRE463             5               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018UR242               1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023013     28/11/2018VS6W                4               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018APX600NT            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018APX600OBB           1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018AS4C                2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018AS7C                2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018CX40                1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018DM105B              4               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018F370BL              1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018FLMKIT              2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018FX370CTBS           1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018NSAW190B            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018NSAW190W            2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018PSRE463             2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023014     28/11/2018PSRF51              2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018APX600BL            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018APX600NT            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018APX600OBB           1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018AS701B              1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018AS7C                2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018CX40                1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018F370BL              3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018FX370CBL            1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018NSSW100             1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023015     28/11/2018PSRE463             3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018AS4C                10              001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018CL4C                2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018CLMKIT              2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018DM105B              6               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018FLMKIT              10              001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018NSAW190B            2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018NSAW190W            3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018PSRF51              3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018SLIDE GREASE        8               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018SLMKIT              3               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018TR11B4              2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018TR14A4A             2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018TR8C4               2               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018TRBX174BL           1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018TRBX174DBM          1               001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018YRS20B B            12              001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018YRS20B G            12              001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023016     28/11/2018YRS20B P            12              001161AUDIOCENTER S.R.L.                      MENDOZA 765                   CORRIENTES               Good Stock     
+RES   00023017     28/11/2018CDC600B             3               001655AVALON AUDIO VIDEO S.R.L.               25 DE MAYO 310                SAN ISIDRO               Good Stock     
+RES   00023017     28/11/2018RN303B              1               001655AVALON AUDIO VIDEO S.R.L.               25 DE MAYO 310                SAN ISIDRO               Good Stock     
+RES   00023017     28/11/2018RN402B              3               001655AVALON AUDIO VIDEO S.R.L.               25 DE MAYO 310                SAN ISIDRO               Good Stock     
+RES   00023017     28/11/2018RXA1070B            1               001655AVALON AUDIO VIDEO S.R.L.               25 DE MAYO 310                SAN ISIDRO               Good Stock     
+RES   00023017     28/11/2018RXV483B             1               001655AVALON AUDIO VIDEO S.R.L.               25 DE MAYO 310                SAN ISIDRO               Good Stock     

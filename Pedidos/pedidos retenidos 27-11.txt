@@ -1,0 +1,72 @@
+RES   00022947     27/11/2018AS4C                1               001766SEBASTIÁN ARMADA                        BELGRANO 1206                 ONCATIVO                 Good Stock     
+RES   00022947     27/11/2018AS5C                1               001766SEBASTIÁN ARMADA                        BELGRANO 1206                 ONCATIVO                 Good Stock     
+RES   00022947     27/11/2018HS5                 2               001766SEBASTIÁN ARMADA                        BELGRANO 1206                 ONCATIVO                 Good Stock     
+RES   00022947     27/11/2018P45B                1               001766SEBASTIÁN ARMADA                        BELGRANO 1206                 ONCATIVO                 Good Stock     
+RES   00022947     27/11/2018PSRE363             3               001766SEBASTIÁN ARMADA                        BELGRANO 1206                 ONCATIVO                 Good Stock     
+RES   00022947     27/11/2018YRA302BIII          3               001766SEBASTIÁN ARMADA                        BELGRANO 1206                 ONCATIVO                 Good Stock     
+RES   00022948     27/11/2018C40                 12              001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018DTX450K             1               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018HS7                 2               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018P125B               4               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018P45B                4               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018PSRE263             2               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018PSRE453             8               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018PSREW300            1               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022948     27/11/2018PSREW410            1               001784DB MUSIC S.R.L.                         TALCAHUANO 114                CABA                     Good Stock     
+RES   00022949     27/11/2018C40                 6               000926COMPUMUSIC S.R.L.                       SAN MARTÍN 284 PLANTA ALTA    SAN MIGUEL DE TUCUMAN    Good Stock     
+RES   00022949     27/11/2018PSRE363             6               000926COMPUMUSIC S.R.L.                       SAN MARTÍN 284 PLANTA ALTA    SAN MIGUEL DE TUCUMAN    Good Stock     
+RES   00022950     27/11/2018APX600OVS           1               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018APXT2NT             1               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018AS501B              1               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018AS6C                2               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018AS7C                2               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018C40BL               6               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018FSX315CNT           3               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018FSX315CTBS          3               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018FX370CBL            3               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018FX370CTBS           3               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018HS5I                2               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018MG10                2               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018MG10XU              2               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018PAC012DBM           4               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018PAC112JLBL          1               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022950     27/11/2018PSRE463             5               000343TODOMUSICA (NQN) DE BONET AGUSTIN       AV. ARGENTINA 261             NEUQUEN                  Good Stock     
+RES   00022952     27/11/2018APX600NT            1               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022952     27/11/2018APXT2BL             1               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022952     27/11/2018APXT2DRB            1               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022952     27/11/2018APXT2NT             1               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022952     27/11/2018C40                 24              000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022952     27/11/2018C40BL               3               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022952     27/11/2018CX40                6               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022953     27/11/2018C40                 18              000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022953     27/11/2018C40BL               2               000728COMUNICACIONES FUEGUINAS                PERÓN NORTE 118               USHUAIA                  Good Stock     
+RES   00022956     27/11/2018APX600BL            1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018APX600NT            1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018AS5C                1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018AS6C                1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018C40BL               1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018DS750               2               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018F310PTBS            6               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018GL1PB               1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018GL1TBS              1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018MAT1                1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018MG10                2               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018MG10XUF             1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018PAC112JLYNS         1               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022956     27/11/2018SB7X                2               000552CASA LIBERTELLA DE LIBERTELLA D.NICOLAS AV. CONGRESO 3394             CABA                     Good Stock     
+RES   00022958     27/11/2018APXT2BL             1               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018C40                 42              001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018F370BL              3               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018FSX315CNT           1               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018FSX315CTBS          6               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018GL1BL               1               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018GL1TBS              2               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018HS5I                4               001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022958     27/11/2018PSRE363             12              001067ECO-MUSIC S.A. (LA PLATA)               DIAGONAL 77 806               LA PLATA                 Good Stock     
+RES   00022959     27/11/2018REFACE CP           7               000993YAMAHA SHOWROOM                         OLGA COSSETTINI 1553 4to NORTECABA                     Good Stock     
+RES   00022959     27/11/2018REFACE CS           7               000993YAMAHA SHOWROOM                         OLGA COSSETTINI 1553 4to NORTECABA                     Good Stock     
+RES   00022959     27/11/2018REFACE DX           6               000993YAMAHA SHOWROOM                         OLGA COSSETTINI 1553 4to NORTECABA                     Good Stock     
+RES   00022959     27/11/2018REFACE YC           7               000993YAMAHA SHOWROOM                         OLGA COSSETTINI 1553 4to NORTECABA                     Good Stock     
+RES   00022960     27/11/2018AMB2216JGS          1               000756CONSUMIDOR FINAL                        OLGA COSSETTINI 1553 4° NORTE CABA                     Good Stock     
+RES   00022960     27/11/2018AMP6F3JGS           1               000756CONSUMIDOR FINAL                        OLGA COSSETTINI 1553 4° NORTE CABA                     Good Stock     
+RES   00022960     27/11/2018AMS1460JGS          1               000756CONSUMIDOR FINAL                        OLGA COSSETTINI 1553 4° NORTE CABA                     Good Stock     

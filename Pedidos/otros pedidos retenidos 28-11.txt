@@ -1,0 +1,74 @@
+RES   00022967     27/11/2018NSC700P             1               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSF700P             4               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSIC600W            34              001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSIC800W            17              001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSIW470W            1               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSIW760W            1               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSIW960W            1               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSSW300             2               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018NSSW500             2               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018RXA870B             2               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018RXV583B             1               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018VXC8                5               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022967     27/11/2018VXC8W               5               001804CHRISTIAN RICARDO ROMERO                CÉSPEDES 3072 1° "4"          CABA                     Good Stock     
+RES   00022971     28/11/2018C40                 60              001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00022971     28/11/2018GL1                 5               001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00022971     28/11/2018GL1PB               5               001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00022971     28/11/2018P125B               2               001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00022971     28/11/2018P45B                10              001597BAIRES ROCKS S.R.L.                     MARCELO T. DE ALVEAR 1410                              Good Stock     
+RES   00022976     28/11/2018AS6C                2               001235FOGLIA MANUEL ANIBAL                    SAN MARTIN 1174               ROSARIO                  Good Stock     
+RES   00022976     28/11/2018AS7C                1               001235FOGLIA MANUEL ANIBAL                    SAN MARTIN 1174               ROSARIO                  Good Stock     
+RES   00022976     28/11/2018GL1                 1               001235FOGLIA MANUEL ANIBAL                    SAN MARTIN 1174               ROSARIO                  Good Stock     
+RES   00022976     28/11/2018SS7C                1               001235FOGLIA MANUEL ANIBAL                    SAN MARTIN 1174               ROSARIO                  Good Stock     
+RES   00022976     28/11/2018VALVE OIL V60       6               001235FOGLIA MANUEL ANIBAL                    SAN MARTIN 1174               ROSARIO                  Good Stock     
+RES   00022976     28/11/2018YRA28BIII           20              001235FOGLIA MANUEL ANIBAL                    SAN MARTIN 1174               ROSARIO                  Good Stock     
+RES   00022996     28/11/2018C40                 6               000498HABESHIAN INSTRUMENTOS MUSICALES        JORGE LUIS BORGES 2436        CABA                     Good Stock     
+RES   00022996     28/11/2018CX40                3               000498HABESHIAN INSTRUMENTOS MUSICALES        JORGE LUIS BORGES 2436        CABA                     Good Stock     
+RES   00022996     28/11/2018F370BL              1               000498HABESHIAN INSTRUMENTOS MUSICALES        JORGE LUIS BORGES 2436        CABA                     Good Stock     
+RES   00022996     28/11/2018P45B                2               000498HABESHIAN INSTRUMENTOS MUSICALES        JORGE LUIS BORGES 2436        CABA                     Good Stock     
+RES   00022996     28/11/2018PSRE463             2               000498HABESHIAN INSTRUMENTOS MUSICALES        JORGE LUIS BORGES 2436        CABA                     Good Stock     
+RES   00022996     28/11/2018PSRF51              2               000498HABESHIAN INSTRUMENTOS MUSICALES        JORGE LUIS BORGES 2436        CABA                     Good Stock     
+RES   00022997     28/11/2018PSRE453             3               001551BOKIN S.A.                              BELGRANO 2602                 MAR DEL PLATA            Good Stock     
+RES   00022997     28/11/2018PSRE463             1               001551BOKIN S.A.                              BELGRANO 2602                 MAR DEL PLATA            Good Stock     
+RES   00022998     28/11/2018YCL450N             3               001109PRO-ARTE S.A.                           AV. EMILIO OLMOS 211          CORDOBA                  Good Stock     
+RES   00022999     28/11/2018MG06X               5               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018MG12XU              2               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018MG20XU              1               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018NSAW190B            15              001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018NSAW190W            18              001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018NSAW194B            5               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018NSAW294B            12              001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018NSIC400W            8               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018NSP20B              2               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018PX3                 2               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00022999     28/11/2018PX8                 2               001582JOSE NICOLAS LOPEZ                      PARANÁ 140 PB OF. 5           CABA                     Good Stock     
+RES   00023000     28/11/2018F370BL              2               001522LEVA ALEJANDRO JOSE                     MENDOZA 1732                  ROSARIO                  Good Stock     
+RES   00023000     28/11/2018FX370CTBS           1               001522LEVA ALEJANDRO JOSE                     MENDOZA 1732                  ROSARIO                  Good Stock     
+RES   00023000     28/11/2018P45B                1               001522LEVA ALEJANDRO JOSE                     MENDOZA 1732                  ROSARIO                  Good Stock     
+RES   00023000     28/11/2018PSREW300            1               001522LEVA ALEJANDRO JOSE                     MENDOZA 1732                  ROSARIO                  Good Stock     
+RES   00023003     28/11/2018MG06X               1               001461DECIBELZA S.R.L.                        MITRE 343                     GENERAL ROCA             Good Stock     
+RES   00023003     28/11/2018MG10XU              1               001461DECIBELZA S.R.L.                        MITRE 343                     GENERAL ROCA             Good Stock     
+RES   00023003     28/11/2018MGP12X              1               001461DECIBELZA S.R.L.                        MITRE 343                     GENERAL ROCA             Good Stock     
+RES   00023003     28/11/2018NSAW190B            6               001461DECIBELZA S.R.L.                        MITRE 343                     GENERAL ROCA             Good Stock     
+RES   00023003     28/11/2018NSAW294B            6               001461DECIBELZA S.R.L.                        MITRE 343                     GENERAL ROCA             Good Stock     
+RES   00023003     28/11/2018RXV683B             1               001461DECIBELZA S.R.L.                        MITRE 343                     GENERAL ROCA             Good Stock     
+RES   00023004     28/11/2018AS701B              2               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018NSAW294B            8               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018NSF150B             8               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018NSSW100             5               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018RN303B              10              001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018RXV383B             3               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018RXV483B             2               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018RXV583B             2               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023004     28/11/2018RXV683B             3               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018AU671S              4               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018CDNT670S            4               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018HS5                 8               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018HS5IW               4               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018HS5W                8               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018NS7390B             10              001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018NSBP401PB           8               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018NSF160B             4               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018NSF51B              8               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018NSP150B             9               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     
+RES   00023005     28/11/2018NSSW300             1               001041TUDELA SEBASTIAN JULIO                  ECHEVERRÍA 2252 PB 17         CABA                     Good Stock     

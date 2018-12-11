@@ -1,0 +1,73 @@
+RES   00022957     27/11/2018APX700IINT          1               000470MC ELECTRONIC DE HERNANDEZ ANGEL LUIS   DEAN FUNES 80                 RIO CUARTO               Good Stock     
+RES   00022957     27/11/2018PAC012BL            1               000470MC ELECTRONIC DE HERNANDEZ ANGEL LUIS   DEAN FUNES 80                 RIO CUARTO               Good Stock     
+RES   00022957     27/11/2018PAC012DBM           1               000470MC ELECTRONIC DE HERNANDEZ ANGEL LUIS   DEAN FUNES 80                 RIO CUARTO               Good Stock     
+RES   00022957     27/11/2018PSRE263             3               000470MC ELECTRONIC DE HERNANDEZ ANGEL LUIS   DEAN FUNES 80                 RIO CUARTO               Good Stock     
+RES   00022957     27/11/2018PSRE453             1               000470MC ELECTRONIC DE HERNANDEZ ANGEL LUIS   DEAN FUNES 80                 RIO CUARTO               Good Stock     
+RES   00022968     28/11/2018APX600BL            1               001614SILVIA SUSANA CORVALÁN                  TUCUMÁN 40                    MENDOZA                  Good Stock     
+RES   00022968     28/11/2018APX600NT            1               001614SILVIA SUSANA CORVALÁN                  TUCUMÁN 40                    MENDOZA                  Good Stock     
+RES   00022968     28/11/2018FSX315CTBS          2               001614SILVIA SUSANA CORVALÁN                  TUCUMÁN 40                    MENDOZA                  Good Stock     
+RES   00022968     28/11/2018P125B               2               001614SILVIA SUSANA CORVALÁN                  TUCUMÁN 40                    MENDOZA                  Good Stock     
+RES   00022968     28/11/2018TRBX305PT           1               001614SILVIA SUSANA CORVALÁN                  TUCUMÁN 40                    MENDOZA                  Good Stock     
+RES   00022968     28/11/2018TRBX305WH           1               001614SILVIA SUSANA CORVALÁN                  TUCUMÁN 40                    MENDOZA                  Good Stock     
+RES   00022969     28/11/2018AS4C                4               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018AS5C                2               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018C40                 6               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018CX40                6               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018P45B                2               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018PSRE363             6               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018PSREW300            2               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018TR11C4              2               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018TS4C                4               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018TS5C                4               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022969     28/11/2018VALVE OIL V60       10              000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022974     28/11/2018C40                 36              001751FENIX MUSIC S.A.                        BASUALDO 1865                 CABA                     Good Stock     
+RES   00022975     28/11/2018YAS62               1               000416PRUDENCIO LACAMARA                      AV. ARIJON 1526               ROSARIO                  Good Stock     
+RES   00022977     28/11/2018C40                 18              000110ARTE MUSICAL (MIDI MUSIC CENTER)        SARMIENTO 1456                CABA                     Good Stock     
+RES   00022977     28/11/2018P45B                4               000110ARTE MUSICAL (MIDI MUSIC CENTER)        SARMIENTO 1456                CABA                     Good Stock     
+RES   00022978     28/11/2018NS6490B             2               001397IMAGINATE DE RUBEN ORLANDO OLIVITO      LEANDRO N. ALEM 556           PEHUAJO                  Good Stock     
+RES   00022978     28/11/2018NS8390B             2               001397IMAGINATE DE RUBEN ORLANDO OLIVITO      LEANDRO N. ALEM 556           PEHUAJO                  Good Stock     
+RES   00022979     28/11/2018C40                 12              001079MK2 S.R.L.                              JOAQUIN V. GONZALEZ 177       LA RIOJA                 Good Stock     
+RES   00022982     28/11/2018C40                 12              000851CHEVES S.A.                             SARMIENTO 1762                CABA                     Good Stock     
+RES   00022983     28/11/2018C40                 30              001304FAMUSIC S.A.                            LINIERS 674                   SAN ISIDRO               Good Stock     
+RES   00022984     28/11/2018C40                 48              001551BOKIN S.A.                              BELGRANO 2602                 MAR DEL PLATA            Good Stock     
+RES   00022985     28/11/2018C40                 12              000615PESSOLANO LUIS                          YAPEYU 267                    CABA                     Good Stock     
+RES   00022986     28/11/2018C40                 12              000600CASA MARVILL DE RAFAEL MARIO VILLAREAL  SAN MARTIN 855                ONCATIVO                 Good Stock     
+RES   00022986     28/11/2018FX370CBL            1               000600CASA MARVILL DE RAFAEL MARIO VILLAREAL  SAN MARTIN 855                ONCATIVO                 Good Stock     
+RES   00022986     28/11/2018FX370CTBS           1               000600CASA MARVILL DE RAFAEL MARIO VILLAREAL  SAN MARTIN 855                ONCATIVO                 Good Stock     
+RES   00022986     28/11/2018VALVE OIL V60       2               000600CASA MARVILL DE RAFAEL MARIO VILLAREAL  SAN MARTIN 855                ONCATIVO                 Good Stock     
+RES   00022987     28/11/2018C40                 24              001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018FLEXI CLEANER       3               001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018FLEXI CLEANER SL    3               001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018MG16XU              1               001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018SAXMKIT             1               001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018SLIDE GREASE        6               001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018SLMKIT              1               001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022987     28/11/2018VALVE OIL V60       12              001721RIVES HERMANOS S.R.L.                   ABRAHAM TAPIA (ESTE) 10       SAN JUAN                 Good Stock     
+RES   00022988     28/11/2018AS501B              1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018AS701B              1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018MG10XU              1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018MG12XU              1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018MG16XU              1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018NS8390B             2               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RN303B              2               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RN402B              2               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RS202B              2               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RS700B              1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RXA870B             1               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RXV483B             4               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RXV583B             2               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022988     28/11/2018RXV683B             2               001603BARTOLINO ALEJANDRO FABIAN              AV. NAZCA 1470                CABA                     Good Stock     
+RES   00022991     28/11/2018NSF160B             2               001619PABLO ALEJANDRO HERNÁNDEZ               AV. CONGRESO 3333             CABA                     Good Stock     
+RES   00022991     28/11/2018NSF350B             2               001619PABLO ALEJANDRO HERNÁNDEZ               AV. CONGRESO 3333             CABA                     Good Stock     
+RES   00022991     28/11/2018NSSW300             1               001619PABLO ALEJANDRO HERNÁNDEZ               AV. CONGRESO 3333             CABA                     Good Stock     
+RES   00022991     28/11/2018RN303B              1               001619PABLO ALEJANDRO HERNÁNDEZ               AV. CONGRESO 3333             CABA                     Good Stock     
+RES   00022992     28/11/2018VS6                 1               001040TAVIS / TOSO GABRIEL                    TACUARI 344 4° A              CABA                     Good Stock     
+RES   00022993     28/11/2018NSIC400W            3               001039DIGITAL CINEMA DE IVO JURI              AV. LIBERTADOR 1092           VICENTE LOPEZ            Good Stock     
+RES   00022993     28/11/2018NSIC800W            7               001039DIGITAL CINEMA DE IVO JURI              AV. LIBERTADOR 1092           VICENTE LOPEZ            Good Stock     
+RES   00022993     28/11/2018RN303B              1               001039DIGITAL CINEMA DE IVO JURI              AV. LIBERTADOR 1092           VICENTE LOPEZ            Good Stock     
+RES   00022994     28/11/2018NS50FB              4               001581THEATER SOUND de Juan Eduardo Grisafio  MARIANO ACOSTA 1760           AVELLANEDA               Good Stock     
+RES   00022994     28/11/2018NS6490B             2               001581THEATER SOUND de Juan Eduardo Grisafio  MARIANO ACOSTA 1760           AVELLANEDA               Good Stock     
+RES   00022994     28/11/2018RN303B              2               001581THEATER SOUND de Juan Eduardo Grisafio  MARIANO ACOSTA 1760           AVELLANEDA               Good Stock     
+RES   00022994     28/11/2018RS202B              2               001581THEATER SOUND de Juan Eduardo Grisafio  MARIANO ACOSTA 1760           AVELLANEDA               Good Stock     
+RES   00022995     28/11/2018APX600NT            1               001716SIMISOL de EZEQUIEL MATÍAS TESORIERO    AV. SAN MARTÍN 1482           CABA                     Good Stock     
+RES   00022995     28/11/2018P45B                4               001716SIMISOL de EZEQUIEL MATÍAS TESORIERO    AV. SAN MARTÍN 1482           CABA                     Good Stock     

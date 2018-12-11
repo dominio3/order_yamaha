@@ -1,0 +1,22 @@
+RES   00022970     28/11/2018PSRE363             1               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022970     28/11/2018PSRE453             1               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00022970     28/11/2018PSREW300            1               000700ECO Y MUSIC (MADRYN) DE GUAS OMAR JULIO 28 DE JULIO 409               PUERTO MADRYN            Good Stock     
+RES   00023019     29/11/2018C40                 6               000926COMPUMUSIC S.R.L.                       SAN MARTÍN 284 PLANTA ALTA    SAN MIGUEL DE TUCUMAN    Good Stock     
+RES   00023019     29/11/2018GM2F53A             1               000926COMPUMUSIC S.R.L.                       SAN MARTÍN 284 PLANTA ALTA    SAN MIGUEL DE TUCUMAN    Good Stock     
+RES   00023019     29/11/2018RDP2F5BGG           1               000926COMPUMUSIC S.R.L.                       SAN MARTÍN 284 PLANTA ALTA    SAN MIGUEL DE TUCUMAN    Good Stock     
+RES   00023020     29/11/2018CL5C                2               001797LUTERÍA S.A. -ODDITY MUSIC-             SARMIENTO 1711                CABA                     Good Stock     
+RES   00023020     29/11/2018DT50S               2               001797LUTERÍA S.A. -ODDITY MUSIC-             SARMIENTO 1711                CABA                     Good Stock     
+RES   00023020     29/11/2018HS5I                2               001797LUTERÍA S.A. -ODDITY MUSIC-             SARMIENTO 1711                CABA                     Good Stock     
+RES   00023020     29/11/2018MG10XU              2               001797LUTERÍA S.A. -ODDITY MUSIC-             SARMIENTO 1711                CABA                     Good Stock     
+RES   00023020     29/11/2018P125B               1               001797LUTERÍA S.A. -ODDITY MUSIC-             SARMIENTO 1711                CABA                     Good Stock     
+RES   00023021     29/11/2018APX600NT            1               000894YAMA MUSIC DE MISTRALETTI JORGE ALBERTO CORRIENTES 1329               VILLA MARIA              Good Stock     
+RES   00023021     29/11/2018APX600OBB           1               000894YAMA MUSIC DE MISTRALETTI JORGE ALBERTO CORRIENTES 1329               VILLA MARIA              Good Stock     
+RES   00023021     29/11/2018C40                 6               000894YAMA MUSIC DE MISTRALETTI JORGE ALBERTO CORRIENTES 1329               VILLA MARIA              Good Stock     
+RES   00023021     29/11/2018FX370CTBS           1               000894YAMA MUSIC DE MISTRALETTI JORGE ALBERTO CORRIENTES 1329               VILLA MARIA              Good Stock     
+RES   00023021     29/11/2018GL1                 2               000894YAMA MUSIC DE MISTRALETTI JORGE ALBERTO CORRIENTES 1329               VILLA MARIA              Good Stock     
+RES   00023021     29/11/2018VALVE OIL V60       12              000894YAMA MUSIC DE MISTRALETTI JORGE ALBERTO CORRIENTES 1329               VILLA MARIA              Good Stock     
+RES   00023022     29/11/2018APX600NT            1               001628MUSICAL HOUSE (MDP) de LARRABURU DANIEL AV. LURO 3379                 MAR DEL PLATA            Good Stock        
+RES   00023024     29/11/2018C40                 24              001294MARÍA DE LOS ANGELES CASCO FIDUCIARIA   Fryda Schultz de Mantovani 450SANTA FE                 Good Stock     
+RES   00023025     29/11/2018NS50FB              2               001551BOKIN S.A.                              BELGRANO 2602                 MAR DEL PLATA            Good Stock     
+RES   00023025     29/11/2018NS8390B             2               001551BOKIN S.A.                              BELGRANO 2602                 MAR DEL PLATA            Good Stock     
+RES   00023025     29/11/2018STAGEPAS600I        1               001551BOKIN S.A.                              BELGRANO 2602                 MAR DEL PLATA            Good Stock     

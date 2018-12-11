@@ -1,0 +1,23 @@
+RES   00022961     27/11/2018P125B               1               001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022961     27/11/2018P45B                1               001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022961     27/11/2018PSRE263             2               001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022961     27/11/2018PSRE363             2               001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022961     27/11/2018PSRE453             2               001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022961     27/11/2018PSREW300            1               001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022961     27/11/2018YRS23               50              001688PEDACE, SANDRA GABRIELA                 AV. FRANCISCO BEIRÓ 5550      CABA                     Good Stock     
+RES   00022962     27/11/2018C40                 18              001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018CX40                6               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018FG800NT             1               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018FG800SB             1               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018GL1                 2               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018L125B               1               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018LP1B                1               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018NP12B               3               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018NP12W               3               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018P45B                10              001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018PSRE363             5               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022962     27/11/2018VALVE OIL V60       6               001012MUSICAL HOUSE (CABA) DE LARRABURU DANIELAV. CABILDO 2739              CABA                     Good Stock     
+RES   00022963     27/11/2018P45B                2               001079MK2 S.R.L.                              JOAQUIN V. GONZALEZ 177       LA RIOJA                 Good Stock     
+RES   00022963     27/11/2018PSRE453             2               001079MK2 S.R.L.                              JOAQUIN V. GONZALEZ 177       LA RIOJA                 Good Stock     
+RES   00022964     27/11/2018NSAW294B            2               001552MAR AND´ S INSTRUMENTOS MUSICALES       CALLE 12 N° 515               MERCEDES                 Good Stock     
+RES   00022964     27/11/2018P45B                1               001552MAR AND´ S INSTRUMENTOS MUSICALES       CALLE 12 N° 515               MERCEDES                 Good Stock     
